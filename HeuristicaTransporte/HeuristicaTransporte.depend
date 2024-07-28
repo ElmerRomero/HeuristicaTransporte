@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1722128788 source:d:\ing sistemas\sexto sistemas\investigacion de operaciones\heuristica\heuristicatransporte\main.cpp
+	<iostream>
+	<algorithm>
+	<iomanip>
+
